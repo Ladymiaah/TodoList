@@ -1,0 +1,17 @@
+print("hello you're welcome to zamtnetwork coffee")
+
+gender = input("what is your gender ?")
+if gender == "female":
+    print("we have been waiting for you ma'ma as your presence will be highly recognised")
+    
+else:
+   print("men are not welcome here!! damnit")
+
+
+school =input("what school did you attend ?")
+if school == "funaab":
+    print("i graduated in that school") 
+    print("i graduated from the department of banking and finance")
+else:
+    print("there are other instituton also that take banking and finance course")
+    print("i'll like to attend other schools for my second degree")
